@@ -11,7 +11,7 @@ export default function Counter(){
 
     return(
         <>
-        <div>Deeksha{num}</div>
+        <div>My number{num}</div>
         <button onClick={Inc}>+</button>
         <button onClick={Dec}>-</button>
     
